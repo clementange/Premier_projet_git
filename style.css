@@ -18,3 +18,7 @@
     padding: 10px;
 
 }
+h3, ol {
+    color:blue;
+    background-color: bisque;
+}
