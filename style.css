@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ange{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: aqua;
+    padding: 10px;
+}
