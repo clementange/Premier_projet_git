@@ -3,10 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
-.ange{
+.ange {
     display: flex;
     text-align: center;
     justify-content: center;
     background-color: aqua;
     padding: 10px;
+}
+.clement {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: greenyellow;
+    padding: 10px;
+
 }
